@@ -4,3 +4,5 @@ Hi master 3rd time commit you are doing thanks a lot for your commits
 Hi I am feature 1 and already in a position to tackle another features
 Hi rebase resolved
 Hey feature 2 statshing bug fixing
+Stashing is in progress
+
