@@ -1,2 +1,3 @@
 Hi this is master and I am good to be here
 Hi I am again logged in and I want to say I am going to make another commit
+Hi I am feature 1 and already in a position to tackle another features
